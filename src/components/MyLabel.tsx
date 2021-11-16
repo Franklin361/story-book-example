@@ -1,4 +1,4 @@
-
+import React from 'react'
 import './my-label.css'
 
 export interface PropsLabel {
